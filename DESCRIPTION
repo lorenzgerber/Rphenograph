@@ -23,4 +23,6 @@ LinkingTo: Rcpp
 Suggests:
     testthat
 License: Artistic-2.0
-RoxygenNote: 5.0.1
+Encoding: UTF-8
+RoxygenNote: 7.1.1
+
